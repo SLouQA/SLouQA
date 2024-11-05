@@ -11,5 +11,5 @@
 
 
 <p align="center">
-  <img  max-width: 100%; width="200px" src="./Media/QA (1).png" alt="QR"/>
+  <img  max-width: 100%; width="200px" src="./Media/QA (1).png" alt="QR"/>(https://me-qr.com/l/SilvanaLoureiro)
 </p>
