@@ -1,6 +1,8 @@
 <p align="center">
   <img  max-width: 100%; width="400px" src="./Media/Nombre.png" alt="Silvana Loureiro"/>
-  <img  max-width: 100%; width="200px" src="https://me-qr.com/U14RnU7I" alt="QR"/>
+  </p>
+<p align="left">
+  <img  max-width: 100%; width="100px" src="./Media/QA (1).png" alt="QR"/>
 </p>
 
 
